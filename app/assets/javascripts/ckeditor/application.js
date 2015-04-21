@@ -1,0 +1,1 @@
+var myvarharhar = new Boolean(1);
